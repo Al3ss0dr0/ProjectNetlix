@@ -1,0 +1,4 @@
+O Box-sizing ele serve para que seu site, não ultrapasse a borda.
+por exemplo todo site tem um limite na lateral mas, quando vc
+deixa ele menor, ele fica de acordo com tamanho que vc deixo,
+não permitindo que ele fique maio na lateral em quando vc minizar ele.

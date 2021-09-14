@@ -1,0 +1,13 @@
+:root{
+    --vermelho:#E50914;
+    --preto: #141414;
+}
+
+*{
+    background: var(--preto);
+    height: 100vh;
+    margin: 0px;
+    overflow: hidden;
+    position: absolute;
+    width: 100%;
+}

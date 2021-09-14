@@ -1,0 +1,3 @@
+Esse comando ele basicamente vc passa mouse por cima da letra em que,
+Você escreveu nela essa cor vai muda para outra ou seja a cor que,
+estava antes vai muda para outra que você colocou.
